@@ -41,3 +41,12 @@ python arama_gui.py
 ```
 
 ## 📂 Dosya Yapısı
+
+## 🔬 Regex Tester
+GUI'deki Regex Tester sekmesi, regex101.com benzeri test ortamı sunar.
+
+## 🏫 Proje Bilgisi
+- **Ders:** Sistem Programlama / Görsel Programlama
+- **Dil:** Python 3
+- **Kütüphaneler:** PyQt5, re, argparse, concurrent.futures
+- **Geliştirici:** Merve Sarı
