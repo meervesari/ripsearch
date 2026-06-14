@@ -47,6 +47,16 @@ ripsearch/
 ├── arama_gui.py    # GUI versiyonu (PyQt5)
 └── README.md
 ```
+## 📸 Ekran Görüntüleri
+
+### Arama Sekmesi
+![Arama](ekran1.png)
+
+### Regex Tester
+![Regex Tester](ekran2.png)
+
+### Geçmiş Sekmesi
+![Gecmis](ekran3.png)
 
 ## 🔬 Regex Tester
 GUI'deki Regex Tester sekmesi, regex101.com benzeri test ortamı sunar.
