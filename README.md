@@ -41,12 +41,18 @@ python arama_gui.py
 ```
 
 ## 📂 Dosya Yapısı
+```
+ripsearch/
+├── arama.py        # Konsol versiyonu
+├── arama_gui.py    # GUI versiyonu (PyQt5)
+└── README.md
+```
 
 ## 🔬 Regex Tester
 GUI'deki Regex Tester sekmesi, regex101.com benzeri test ortamı sunar.
 
 ## 🏫 Proje Bilgisi
-- **Ders:** Sistem Programlama / Görsel Programlama
+- **Ders:** Sistem Programlama / Görsel Programlama Uygulamaları 
 - **Dil:** Python 3
 - **Kütüphaneler:** PyQt5, re, argparse, concurrent.futures
 - **Geliştirici:** Merve Sarı
